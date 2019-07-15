@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 16px;
+}
+body{
+    font-size: 1rem;
+}
+.section{
+}
+.fresh-life{
+ background-color: white;
+}
+.about-us{
+    background-color: blue;
+}
+.our-services{
+    background-color: aquamarine;
+}
+.gallery{
+    background-color: rgb(204, 204, 3);
+}
+.subscribe-to-us{
+    background-color: white;
+}
+.blog{
+    background-color: rgb(133, 53, 133);
+}
+.contact{
+background-color: white;
+}
+.footer{
+    background-color: black;
+}
+.container{
+    max-width: 1500px;
+    margin: 0 auto;
+}
